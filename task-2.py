@@ -1,6 +1,7 @@
 def perimeter_of_rectangle(l, w):
     return (l * 2) + (w * 2)
 
+
 print("Please enter the length of the rectangle:")
 length = float(input())
 print("Please enter the width of the rectangle:")
